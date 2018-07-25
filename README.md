@@ -1,1 +1,1 @@
-# oracle-12c-centos
+# oracle-12c-centos 7
